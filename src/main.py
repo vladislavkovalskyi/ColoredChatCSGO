@@ -16,11 +16,12 @@ while True:
         print("Enter 1 or 2!")
     except ValueError:
         print("Enter the number!")
-print(hello[language-1])
-text = input(text_input[language-1])
-for color, color_code in designations.items():
-    text = text.replace(color, color_code)
+while True:
+    print(hello[language-1])
+    text = input(text_input[language-1])
+    for color, color_code in designations.items():
+        text = text.replace(color, color_code)
 
-os.system("cls")
-pyperclip.copy(f"playerradio Radio \"{text}\"")
-print(text_copied[language-1])
+    os.system("cls")
+    pyperclip.copy(f"playerradio Radio \"{text}\"")
+    print(text_copied[language-1])

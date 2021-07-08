@@ -1,7 +1,7 @@
 hello = (
     (
         "Colored Chat CS:GO\n"
-        "Автор: Владислав Ковальский"
+        "Автор: Владислав Ковальский\n"
         "~~~~~~~~~~~~~~~~~~~~\n"
         "Цвета:\n"
         "Red, Green, Blue, Pink, Yellow, Lime,\n"
@@ -12,7 +12,7 @@ hello = (
     ),
     (
         "Colored Chat CS:GO\n"
-        "Author: Vladislav Kovalskyi"
+        "Author: Vladislav Kovalskyi\n"
         "~~~~~~~~~~~~~~~~~~~~\n"
         "Colors:\n"
         "Red, Green, Blue, Pink, Yellow, Lime,\n"
